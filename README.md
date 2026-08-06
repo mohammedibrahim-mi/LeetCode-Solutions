@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Array
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+## Two Pointers
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
