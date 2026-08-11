@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
