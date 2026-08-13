@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
