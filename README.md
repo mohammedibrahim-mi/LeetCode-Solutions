@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
