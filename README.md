@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1861-rotating-the-box](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/mohammedibrahim-mi/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
